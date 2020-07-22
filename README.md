@@ -47,7 +47,7 @@ A CNN accelerator architecture based on Eyeriss v2 is modeled to progress convol
 
 
 - 4_CLUSTER
-- HMNOC_4_CLUSTER_TB  
+  - HMNOC_4_CLUSTER_TB  
 
 ![image.png](https://i.loli.net/2020/07/22/arEVChcJLT4n7y1.png)
 
@@ -55,7 +55,9 @@ A CNN accelerator architecture based on Eyeriss v2 is modeled to progress convol
 
 ### Average Filter
 
-![image.png](https://i.loli.net/2020/07/22/kKtyZmIuOagoA7R.png)
+<div align=center>
+  <img src="https://i.loli.net/2020/07/22/kKtyZmIuOagoA7R.png"
+</div>
 
 ### Result
 
