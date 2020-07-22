@@ -2,7 +2,7 @@
 
 This is a course project based on Verilog.    
 
-I realized a CNN accelerator architecture based on Eyeriss v2 to progress convolution.
+A CNN accelerator architecture based on Eyeriss v2 is modeled to progress convolutional layers, full connected layers and depth-conv layers.
 
 ## RTL
 
