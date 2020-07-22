@@ -54,10 +54,8 @@ A CNN accelerator architecture based on Eyeriss v2 is modeled to progress convol
 ## Demo
 
 ### Average Filter
+![image.png](https://i.loli.net/2020/07/22/kKtyZmIuOagoA7R.png)
 
-<div align=center>
-  <img src="https://i.loli.net/2020/07/22/kKtyZmIuOagoA7R.png"
-</div>
 
 ### Result
 
